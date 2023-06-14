@@ -1,0 +1,292 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+
+
+}
+
+.navbar{
+    color: white;
+    height: 60px;
+    background-color: #0f1111;
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly;
+}
+
+.border{
+    border :1.5px solid transparent;
+}
+
+.border:hover{
+    border: 1.5px solid white;
+
+}
+
+.box1{
+    height: 40px;
+    width: 100px;
+    background-image: url(amazon_logo.png);
+    background-size: cover;
+}
+
+.box2{
+    
+    width: 100px;
+
+}
+
+.add1{
+    margin-left: 13px;
+    color: #cccccc;
+    font-size:0.85rem;
+}
+
+.add2{
+    margin-left: 3px;
+}
+
+.icon{
+    display: flex;
+    color: white;
+    
+}
+
+.box3{
+    display: flex;
+    justify-content: space-evenly;
+    height: 40px;
+    width: 650px;   
+}
+
+.input{
+    width: 95%;
+    font-size: 1.2rem;
+}
+
+.seclect{
+    background-color: #f3f3f3;
+    width: 50px;
+    font-size: 1rem;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.search-icon{
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    background-color: #febd68;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.box3:hover{
+    border-radius: 4px;
+    border: 2px solid orange;
+}
+
+.acc{
+    font-size: 0.80rem;
+    font-weight: 750;
+}
+
+.box6 i{
+    font-size: 33px;
+}
+
+.none{
+    width: 60px;
+    background-color: #cccccc;
+}
+
+.panal{
+    background-color: #222f3d;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.panal-opt{
+    width: 77%;
+    margin: 17px;
+}
+
+.hero{
+    height: 350px;
+    background-image: url(hero_image.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.hero-msg{
+    height:40px ;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+    margin-bottom: 25px;
+
+   
+}
+
+.hero-msg a{
+    color: #007185;
+    text-decoration: none;
+    margin: 3px;
+}
+
+.shop{
+    background-color: #e2e7e6;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.box{
+    height: 400px;
+    width: 23%;
+    background-color: white;
+    margin-top: 25px;
+}
+
+.img{
+    height: 300px;
+    background-size: cover;
+    margin-top: 15px
+    
+    
+}
+
+.box-cont{
+    margin: 0.75rem;
+
+}
+
+.box p{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color: #007185;
+}
+
+.shop2{
+    height: 300px;
+    background-color: white;
+    width: 100%;
+    background-color: white;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;    
+}
+
+.deals{
+    display: flex;
+}
+
+.deals p{
+    color: #007185;
+    margin-top : 7px;
+    margin-left: 15px;
+}
+
+.temp{
+    margin: 20px;
+    margin-bottom: 0px;
+    height: 215px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.inside {
+    height: 215px;
+    width: 15%;
+    background-color: red;
+    background-size: cover;
+    
+}
+
+.one {
+    height: 20px;
+    background-color :#e2e7e6;
+}
+
+.back{
+    height: 50px;
+    background-color: #37475a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+   
+}
+
+.details{
+    height: 400px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+}
+
+h3 {
+    margin-top: 50px;
+}
+
+ul a {
+    margin-top: 10px;
+    display: block;
+}
+
+.bottom-logo{
+    margin-top: 0.40px;
+    height: 80px;
+    background-color:#222f3d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bottom {
+    height: 100px;
+    color: white;
+    background-color: #131A22; 
+    display:flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.bottom-box1 {
+    height: 20px;
+    width: 500px;
+    font-size: 0.85rem;
+    padding-top: 20px;
+
+}
+
+.bottom-box1 a {
+    padding-left: 15px;
+}
+
+.bottom-box1 p {
+    font-size: 0.70rem;
+    padding-top: 5px;
+}
+
+
+
+
+
+
+
+
+
